@@ -1,0 +1,5 @@
+setup.py
+stl_city_parcel_ingestion.egg-info/PKG-INFO
+stl_city_parcel_ingestion.egg-info/SOURCES.txt
+stl_city_parcel_ingestion.egg-info/dependency_links.txt
+stl_city_parcel_ingestion.egg-info/top_level.txt

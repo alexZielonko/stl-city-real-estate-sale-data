@@ -1,0 +1,7 @@
+.DS_Store
+
+*.log
+
+DEBUG--last_fetched_property_page.html
+database.ini
+tasklist.md
